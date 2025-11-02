@@ -11,6 +11,10 @@ TagManager:
   - Spawn1
   - GravityOn
   - SpeedBoost
+  - GravityOff
+  - Obstacle
+  - CheckPoint
+  - Checkpoint_2
   layers:
   - Default
   - TransparentFX
